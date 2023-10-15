@@ -28,7 +28,7 @@ let stringNumber = String(someNumber)
 // console.log(stringNumber)
 
 
-//*******************Operations******************* */
+//******************************Operations******************************************/
 
 let value = 3
 let negValue = -value
