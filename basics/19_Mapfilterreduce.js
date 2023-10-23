@@ -49,6 +49,7 @@ const myNums = [1,2,3]
 
 // console.log(myTotal)
 
+
 const myTotal = myNums.reduce((acc,curr)  => aacc+curr,0)
 
 cconsole.log(myTotal);
